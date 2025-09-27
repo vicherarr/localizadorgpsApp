@@ -1,0 +1,9 @@
+/build
+*.iml
+/.gradle
+/local.properties
+/.idea
+/.navigation
+captures
+.externalNativeBuild
+.cxx
